@@ -1,0 +1,24 @@
+D:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\bin\Debug\projeto_Partido_13.exe.config
+D:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\bin\Debug\projeto_Partido_13.exe
+D:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\bin\Debug\projeto_Partido_13.pdb
+D:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.csprojResolveAssemblyReference.cache
+D:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.MainForm.resources
+D:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.csproj.GenerateResource.Cache
+D:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.exe
+D:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.pdb
+F:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\bin\Debug\projeto_Partido_13.exe.config
+F:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\bin\Debug\projeto_Partido_13.exe
+F:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\bin\Debug\projeto_Partido_13.pdb
+F:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.csprojResolveAssemblyReference.cache
+F:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.MainForm.resources
+F:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.csproj.GenerateResource.Cache
+F:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.exe
+F:\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.pdb
+F:\1 DSN\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\bin\Debug\projeto_Partido_13.exe.config
+F:\1 DSN\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\bin\Debug\projeto_Partido_13.exe
+F:\1 DSN\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\bin\Debug\projeto_Partido_13.pdb
+F:\1 DSN\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.csprojResolveAssemblyReference.cache
+F:\1 DSN\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.MainForm.resources
+F:\1 DSN\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.csproj.GenerateResource.Cache
+F:\1 DSN\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.exe
+F:\1 DSN\C#\projeto_Partido_13_Oficial\projeto_Partido_13\projeto_Partido_13\obj\Debug\projeto_Partido_13.pdb
